@@ -1,5 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/lubegamark/pima.png?label=ready&title=Ready)](https://waffle.io/lubegamark/pima?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/lubegamark/pima.png?label=ready&title=Ready)](https://waffle.io/lubegamark/pima?utm_source=badge)
+[![Stories in Ready](https://badge.waffle.io/lubegamark/pima.png?label=ready&title=Ready)](https://waffle.io/lubegamark/pima?utm_source=badge)
 # PIMA
 
 [![Build Status](https://travis-ci.org/lubegamark/pima.svg?branch=master)](https://travis-ci.org/lubegamark/pima)
